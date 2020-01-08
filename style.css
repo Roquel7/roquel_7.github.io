@@ -1,0 +1,64 @@
+
+body {
+padding: 25px;
+border: 0;
+margin: 0;
+font: inherit;
+font-size: 100%;
+}
+
+.title {
+  text-align: center;
+  border-bottom: solid .5px;
+}
+.styledFont {
+    color: black;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.green {
+  color: green;
+}
+.big{
+  font-size: 25px;
+}
+.small {
+  font-size: 15px;
+}
+.middle {
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+  font-size: 25px;
+}
+.font {
+  font-family: monospace;
+  word-spacing: 5px;
+  font-size: 20px;
+}
+.orange {
+  color: orange;
+  font-weight: bold;
+  font-size: 30px;
+  padding-bottom: 60px;
+  border-bottom: solid .5px black;
+}
+.info {
+  color: green;
+  font-size: 20px;
+  padding-bottom: 10px;
+  border-bottom: .5px solid black;
+
+}
+.picture {
+  font-size: 20px;
+}
+.picture img {
+  border: 7px solid #fce205;
+  width: 550px;
+}
